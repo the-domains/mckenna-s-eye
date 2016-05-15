@@ -1,7 +1,7 @@
 name: "McKenna's Eye"
 favicon: null
-layout_spectrum: 0.5254977967124432
-typography_spectrum: 0.9394050571136177
+layout_spectrum: 0.99876
+typography_spectrum: 0.04332
 title: "McKenna's Eye"
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.3839434771798551
+    - '#fafbed'
+    - '#f5907c'
+    - '#7bcad1'
+    - '#929292'
+    - '#b7b7b7'
+  brandStrength: 0.3125
   lightness: 0.7264011388178915
-  saturation: 0.0012227410916239023
-  rhythmicContrast: 0.20913430908694863
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
