@@ -1,0 +1,28 @@
+name: "McKenna's Eye"
+favicon: null
+layout_spectrum: 0.5254977967124432
+typography_spectrum: 0.9394050571136177
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3839434771798551
+  lightness: 0.7264011388178915
+  saturation: 0.0012227410916239023
+  rhythmicContrast: 0.20913430908694863
+purpose: []
