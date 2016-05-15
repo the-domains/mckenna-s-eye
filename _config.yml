@@ -1,5 +1,8 @@
+name: "McKenna's Eye"
+favicon: null
+layout_spectrum: 0.99876
+typography_spectrum: 0.08539204
 title: "McKenna's Eye"
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 0.3125
-  rhythmicContrast: 0
   brandColors:
     - '#fafbed'
     - '#f5907c'
     - '#7bcad1'
     - '#929292'
     - '#b7b7b7'
+  brandStrength: 0.3125
   lightness: 0.7264011388178915
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: "McKenna's Eye"
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.08539204
-layout_spectrum: 0.99876
+  saturation: 0
+  rhythmicContrast: 0.25
+purpose: []
